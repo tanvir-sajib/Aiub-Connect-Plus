@@ -1,0 +1,12 @@
+import React from 'react';
+import PlaceholderScreen from '../../shared/components/PlaceholderScreen';
+
+export default function AlumniNotificationsScreen({ navigation, route }) {
+  return (
+    <PlaceholderScreen
+      title="Notifications"
+      navigation={navigation}
+      icon="notifications-outline"
+    />
+  );
+}

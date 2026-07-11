@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "AIUB Connect+",
+    "slug": "aiub-connect-plus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0E2647"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "edu.aiub.connectplus"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
